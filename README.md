@@ -1,3 +1,2 @@
 # Animation
-![Clamp Animation](./ClampAnimation.svg)
-[Example](./index.html)
+[Example](https://arikmackenburg.github.io/Animation/)
